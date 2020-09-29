@@ -2,7 +2,7 @@
 
 <?php
 ob_start();
-define('PHP_Professionallari', '1295814756:AAEHCh3DDJGoHk-wtmtE27gFH-dPO20j9fM');
+define('UzGamersTV', '1295814756:AAEHCh3DDJGoHk-wtmtE27gFH-dPO20j9fM');
 //tokenni yozing
 $admin = "1206658736"; 
 //ozizni id raqamizni yozing
