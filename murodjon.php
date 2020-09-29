@@ -150,7 +150,7 @@ bot('sendMessage',[
 }if($text){
 bot('sendMessage',[ 
      'chat_id'=>$cid2, 
-     'text'=>"🎉Marcador tayyor. 👆👆👆👆",
+     'text'=>"🎉Marcador tayyor. 👆👆👆",
      ]);
      }
  
