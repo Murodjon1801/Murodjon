@@ -4720,7 +4720,7 @@ if($get =="administrator" or $get == "creator"){
 }
   
 $replyik = $message->reply_to_message->text;
-    $yubbi = "📨Yuboriladigan xabar matnini kiriting. Xabar turi markdown";
+    $yubbi = "📨Yuboriladigan xabar matnini kiriting! Xabar turi markdown";
 
     if($text1 == "/sendu" and $chat_id == $admin){
       ty($chat_id);
